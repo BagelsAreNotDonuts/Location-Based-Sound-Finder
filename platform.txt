@@ -1,0 +1,2 @@
+Please run in Android, also it's preferable if you're able to start with the phone I used in development, 
+it was the "Pixel 3a" using API 33, Android Tiramisu Google Apis |x86_64. Thank you.
